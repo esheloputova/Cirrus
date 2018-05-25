@@ -40,7 +40,7 @@ public class LoginPage {
 		        .until(ExpectedConditions.elementToBeClickable(element));		    																	 
 		    myDynamicElement.click(); 
     }
-	
+
 	public void loginauthor(String userid, String pass)
 	{
 

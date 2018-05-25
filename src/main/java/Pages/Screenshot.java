@@ -15,7 +15,7 @@ import org.openqa.selenium.WebDriver;
  * This class takes screenshot
  */
 public class Screenshot {
-	
+
 	public static void captureScreenshot(WebDriver driver, String screenshotName)
 	{
 		try {

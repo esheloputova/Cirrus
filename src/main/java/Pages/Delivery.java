@@ -122,11 +122,11 @@ public class Delivery {
 	{
 		this. driver=driver;	
 	}
-	
+
 	private void waitforelementandclick(By element)
     {
-		WebElement myDynamicElement = (new WebDriverWait(driver, 10))
-		        .until(ExpectedConditions.elementToBeClickable(element));		    																	 
+	    WebElement myDynamicElement = (new WebDriverWait(driver, 10))
+		        .until(ExpectedConditions.elementToBeClickable(element));
 		    myDynamicElement.click(); 
     }
 	
@@ -840,7 +840,7 @@ public class Delivery {
 		Thread.sleep(5000);
 		
 	}
-	
+
 	public void MC1() throws InterruptedException
 	{
 		//5. answer for MC type of question with Map

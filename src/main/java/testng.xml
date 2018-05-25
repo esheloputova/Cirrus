@@ -4,37 +4,37 @@
 
   <test name="TestWithChrome">
   <parameter name="browser" value="chrome"/>
-  <parameter name="url" value="https://atests.cirrusplatform.com"/>
+  <parameter name="url" value="https://atests.cirrus4.ru"/>
     <classes>
-    					 <!-- <class name="TestCases.E_Library" />
-      					 <class name="TestCases.E2_Library" />
-    					 <class name="TestCases.A_VerifyLogin"/> 
-     					 <!-<class name="TestCases.B_AdminMenu"/>-->
-     					 <class name="TestCases.C_Delivery"/>
-     					 <class name="TestCases.C2_DeliveryOnlyMC"/>
-     					 <class name="TestCases.C3_DeliveryBlueprint"/>
-     					 <class name="TestCases.C4_DeliveryBlueprint"/>
-     					 <class name="TestCases.C5_DeliveryBlueprint"/>
-     					 <!-- <class name="TestCases.C6_DeliveryLongTime"/> -->
-     					 <!-- <class name="TestCases.C7_DeliveryTimedSection"/>
-     					 <class name="TestCases.C8_DeliveryRFNDA"/>
-     					 <class name="TestCases.D_Marking" />
-     					 <class name="TestCases.D3_Marking" />
-      					 <class name="TestCases.F_Assessments" />
-      					 <class name="TestCases.F2_Assessments" />
-      					 <class name="TestCases.F3_Assessments" />
-      					 <class name="TestCases.F4_Candidate_preview" />
-      					 <class name="TestCases.H_SAML" />  -->
+        <class name="TestCases.B_AdminMenu"/>
+		<!--<class name="TestCases.E_Library" />-->
+      					 <!--<class name="TestCases.E2_Library" />-->
+    					 <!--<class name="TestCases.A_VerifyLogin"/>-->
+     					<!--<class name="TestCases.C_Delivery"/>-->
+     					<!--<class name="TestCases.C2_DeliveryOnlyMC"/>-->
+     					 <!--<class name="TestCases.C3_DeliveryBlueprint"/>-->
+     					 <!--<class name="TestCases.C4_DeliveryBlueprint"/>-->
+     					 <!--<class name="TestCases.C5_DeliveryBlueprint"/>-->
+     					  <!--<class name="TestCases.C6_DeliveryLongTime"/>-->
+     					  <!--<class name="TestCases.C7_DeliveryTimedSection"/>-->
+     					 <!--<class name="TestCases.C8_DeliveryRFNDA"/>-->
+     					 <!--<class name="TestCases.D_Marking" />-->
+     					 <!--<class name="TestCases.D3_Marking" />-->
+      					 <!--<class name="TestCases.F_Assessments" />-->
+      					 <!--<class name="TestCases.F2_Assessments" />-->
+      					 <!--<class name="TestCases.F3_Assessments" />-->
+      					 <!--<class name="TestCases.F4_Candidate_preview" />-->
+      					 <!--<class name="TestCases.H_SAML"/>-->
       					 <!--<class name="TestCases.I_Psychometrics" />-->
       					 <!--<class name="TestCases.I2_Psychometrics" />-->
       					 <!--<class name="TestCases.I3_Psychometrics" />-->
       					 <!--<class name="TestCases.I4_Psychometrics" />-->
       					 <!--<class name="TestCases.I5_Psychometrics" />-->
       					 <!--<class name="TestCases.I6_Psychometrics" />-->
-      					 <!-- <class name="TestCases.D2_Marking" /> -->
-						 <!-- <class name="TestCases.G_Schedule" /> -->
-      					 <!-- <class name="TestCases.T101RunaTC"/> -->
-      					 <!-- <class name="TestCases.Exam_for_Jeremy"/> -->
+      					  <!--<class name="TestCases.D2_Marking" />-->
+						  <!--&lt;!&ndash;<class name="TestCases.G_Schedule" />&ndash;&gt;-->
+      					  <!--<class name="TestCases.T101RunaTC"/>-->
+      					  <!--<class name="TestCases.Exam_for_Jeremy"/>-->
     </classes>
   </test>
   

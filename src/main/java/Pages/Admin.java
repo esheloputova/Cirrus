@@ -433,8 +433,8 @@ WebDriver driver;
 	    Thread.sleep(1000);
 	    Assert.assertEquals(driver.findElement(tpopupmessage).getText(), "Automated Registration Form Title");
 	}
-	
-	public void importLO () throws InterruptedException 
+
+	public void importLO () throws InterruptedException
 	{
 		driver.navigate().refresh();
 //		waitforelementandclick(adminmenu);
